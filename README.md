@@ -135,7 +135,6 @@ The Power BI dashboard provides:
 
 ## 👤 Author
 
-*Your Name*
-[LinkedIn Profile] | [Portfolio/GitHub Link]
+*Ashish Jumle*
 
 ---
